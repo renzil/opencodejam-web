@@ -28,7 +28,7 @@ export default function Home() {
               <p className="text-base mb-2">Tech stack: <b>HTML</b> | <b>CSS</b> | <b>JS</b> | <b>Sheets API</b></p>
               <p className="text-base mb-2">Top contributors: <b>Priya</b> | <b>Olan</b> | <b>Amos</b> | <b>Al-Ameen</b></p>
               <p className="text-base mb-2">Mentor: <b>Renzil</b></p>
-              <p className="text-base mb-2">Website: <a className="text-base mb-2 underline" href="https://littleonesbookhub.netlify.app" target="_blank">Click here</a></p>
+              <p className="text-base mb-2">Website: <a className="text-base mb-2 underline" href="https://littleonesbookhub.netlify.app" target="_blank" rel="noopener noreferrer">Click here</a></p>
             </div>
           </div>
         </section>
